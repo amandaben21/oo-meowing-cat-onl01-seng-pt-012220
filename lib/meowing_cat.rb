@@ -3,6 +3,5 @@ class Cat
 end
 
 cat.meow = "meow!"  
-end
-
 puts "meow!"
+end 
