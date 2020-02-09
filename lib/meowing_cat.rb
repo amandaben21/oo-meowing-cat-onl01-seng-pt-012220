@@ -3,6 +3,6 @@ attr_accessor :name
 end
 
 def meow
-Cat.meow
-puts "meow!"
+  puts "meow!"
+end
 end
